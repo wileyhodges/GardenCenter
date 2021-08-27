@@ -14,6 +14,7 @@
 		B8CE941F26D84C83002990E7 /* GardenCenterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8CE941E26D84C83002990E7 /* GardenCenterTests.swift */; };
 		B8CE942926D84C83002990E7 /* GardenCenterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8CE942826D84C83002990E7 /* GardenCenterUITests.swift */; };
 		B8CE942B26D84C83002990E7 /* GardenCenterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8CE942A26D84C83002990E7 /* GardenCenterUITestsLaunchTests.swift */; };
+		B8CE943826D84CBA002990E7 /* GardenPlantSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8CE943726D84CBA002990E7 /* GardenPlantSupport.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		B8CE942426D84C83002990E7 /* GardenCenterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GardenCenterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8CE942826D84C83002990E7 /* GardenCenterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GardenCenterUITests.swift; sourceTree = "<group>"; };
 		B8CE942A26D84C83002990E7 /* GardenCenterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GardenCenterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B8CE943726D84CBA002990E7 /* GardenPlantSupport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GardenPlantSupport.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				B8CE940F26D84C82002990E7 /* ContentView.swift */,
 				B8CE941126D84C83002990E7 /* Assets.xcassets */,
 				B8CE941326D84C83002990E7 /* Preview Content */,
+				B8CE943726D84CBA002990E7 /* GardenPlantSupport.swift */,
 			);
 			path = GardenCenter;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B8CE941026D84C82002990E7 /* ContentView.swift in Sources */,
+				B8CE943826D84CBA002990E7 /* GardenPlantSupport.swift in Sources */,
 				B8CE940E26D84C82002990E7 /* GardenCenterApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
