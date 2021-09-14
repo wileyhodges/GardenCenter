@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B81BB10126F109E900BC028D /* PlantCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = B81BB10026F109E900BC028D /* PlantCatalog.swift */; };
 		B8CE940E26D84C82002990E7 /* GardenCenterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8CE940D26D84C82002990E7 /* GardenCenterApp.swift */; };
 		B8CE941026D84C82002990E7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8CE940F26D84C82002990E7 /* ContentView.swift */; };
 		B8CE941226D84C83002990E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8CE941126D84C83002990E7 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B81BB10026F109E900BC028D /* PlantCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantCatalog.swift; sourceTree = "<group>"; };
 		B8CE940A26D84C82002990E7 /* GardenCenter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GardenCenter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8CE940D26D84C82002990E7 /* GardenCenterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GardenCenterApp.swift; sourceTree = "<group>"; };
 		B8CE940F26D84C82002990E7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				B8CE941126D84C83002990E7 /* Assets.xcassets */,
 				B8CE941326D84C83002990E7 /* Preview Content */,
 				B8CE943726D84CBA002990E7 /* GardenPlantSupport.swift */,
+				B81BB10026F109E900BC028D /* PlantCatalog.swift */,
 			);
 			path = GardenCenter;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 				B8CE941026D84C82002990E7 /* ContentView.swift in Sources */,
 				B8CE943826D84CBA002990E7 /* GardenPlantSupport.swift in Sources */,
 				B8CE940E26D84C82002990E7 /* GardenCenterApp.swift in Sources */,
+				B81BB10126F109E900BC028D /* PlantCatalog.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
